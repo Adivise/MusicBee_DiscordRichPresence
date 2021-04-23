@@ -1,5 +1,7 @@
 # ONLY FOR MUSICBEE!
 
+[Download Here](https://www.getmusicbee.com/)
+
 have problem??
 **[Join server](https://discord.gg/8NWJ6X7Nmu)**
 
