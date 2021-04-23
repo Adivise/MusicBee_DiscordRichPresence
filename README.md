@@ -1,5 +1,9 @@
 # PLEASE READ ALL DESCRIPTION!
 
+have problem??
+**[Join server](https://discord.gg/8NWJ6X7Nmu)**
+
+
 **[Discord Developer Appications](https://discord.com/developers/applications)**
 
 ![see](https://i.imgur.com/TmNetfn.png)
