@@ -21,4 +21,4 @@
 
 # CREDIT
 
-**[Harmon758](https://github.com/Harmon758/mb_DiscordRichPresence)**
+**[Harmon758](https://github.com/Harmon758/mb_DiscordRichPresence)** and **[Kuunikal](https://github.com/Kuunikal/mb_DiscordRichPresence)**
