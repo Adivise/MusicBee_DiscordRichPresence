@@ -95,10 +95,6 @@ namespace MusicBeePlugin
             long position = 0;
             presence.startTimestamp = now - position;
 
-
-            presence.label = "Click to listening";
-            presence.url = "https://www.youtube.com/results?search_query=" + track;
-
             DiscordRPC.UpdatePresence(ref presence);
         }
 
