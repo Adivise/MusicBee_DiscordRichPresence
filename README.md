@@ -11,7 +11,7 @@
 
 ** WATCH THIS! **
 
-![see](https://www.youtube.com/watch?v=U8SUy4IR9vQ)
+https://www.youtube.com/watch?v=U8SUy4IR9vQ
 
 # CREDIT
 
