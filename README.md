@@ -1,5 +1,5 @@
-# mb_DiscordRichPresence
-
-** WATCHING TUTORIAL! **
+# WATCHING TUTORIAL!
 
 * **[Discord Developer Appications](https://discord.com/developers/applications)**
+
+** Link Here:  https://imgur.com/a/Mcc07ic
