@@ -3,6 +3,7 @@
 **[Discord Developer Appications](https://discord.com/developers/applications)**
 
 ![see](https://i.imgur.com/TmNetfn.png)
+
 **[FOR STATUS!](https://imgur.com/a/FCN0LLV)**
 
 # NEED CUSTOM RICH PRESENCE YET???!!
