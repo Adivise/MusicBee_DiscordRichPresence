@@ -1,3 +1,5 @@
+# PLEASE READ ALL DESCRIPTION!
+
 **[Discord Developer Appications](https://discord.com/developers/applications)**
 
 ![see](https://i.imgur.com/TmNetfn.png)
