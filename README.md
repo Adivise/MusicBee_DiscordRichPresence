@@ -1,4 +1,4 @@
-# PLEASE READ ALL DESCRIPTION!
+# ONLY FOR MUSICBEE!
 
 have problem??
 **[Join server](https://discord.gg/8NWJ6X7Nmu)**
