@@ -2,16 +2,15 @@
 
 **[Discord Developer Appications](https://discord.com/developers/applications)**
 
-**LINK HERE:**  https://imgur.com/a/Mcc07ic
-
 ![see](https://i.imgur.com/TmNetfn.png)
-
 
 # NEED CUSTOM RICH PRESENCE YET???!!
 
 ** WATCH THIS! **
 
-https://www.youtube.com/watch?v=U8SUy4IR9vQ
+**NEED WATCH:** https://www.youtube.com/watch?v=U8SUy4IR9vQ
+
+**LINK IMAGE EXTRA:**  https://imgur.com/a/Mcc07ic
 
 # CREDIT
 
