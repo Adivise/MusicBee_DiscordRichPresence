@@ -10,7 +10,7 @@
 
 **NEED WATCH:** https://www.youtube.com/watch?v=U8SUy4IR9vQ
 
-**LINK IMAGE EXTRA:**  https://imgur.com/a/Mcc07ic
+**EXTRA LINK:**  https://imgur.com/a/Mcc07ic
 
 # CREDIT
 
